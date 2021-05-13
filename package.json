@@ -1,0 +1,21 @@
+{
+  "name": "myths-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-senpai": "^2.3.1",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "got": "^11.8.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1"
+  }
+}
