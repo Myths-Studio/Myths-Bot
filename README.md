@@ -14,6 +14,7 @@
 
  *   **Server Support Link ==> [Click Here](https://discord.com/invite/kp5kb8wSMp)**
 
+> [![Discord Bots](https://top.gg/api/widget/731948524203147304.svg)](https://top.gg/bot/731948524203147304)     [![infinitybotlist](https://infinitybotlist.com/bots/731948524203147304/widget?size=medium)](https://infinitybotlist.com/bots/731948524203147304/)
 
 ### - **Utility Commands** : 
 
